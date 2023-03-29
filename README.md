@@ -1,6 +1,8 @@
 # Inventory-Shop
 Manage the inventory of a shop
 
+Sql file is included into zip file. To run it on local url is localhost/shop-inventory/admin
+
 Here are the credentials for users:
 
 Admin:
